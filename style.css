@@ -4,6 +4,9 @@ body {
     margin-left: 15px;
 }
 
+header {
+  font-size: 25px;
+
 h1 {
   color: darkblue;
   text-align: left;
