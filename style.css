@@ -33,7 +33,7 @@ p {
 
   
 img {
-  display: block;  
+  display: inline-block;  
   float: left;
   margin-left: 10px;
   margin-right: 10px; 
