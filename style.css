@@ -26,10 +26,10 @@ p {margin-top: 40px;
 }
 
 img {
-  display: inline-block;  
+  display: block;  
   float: left;
   margin-left: 10px;
-  margin-right: 10px; /* Optional, for spacing between the image and the text */
+  margin-right: 10px; 
   width: 30%;
   }
 }
